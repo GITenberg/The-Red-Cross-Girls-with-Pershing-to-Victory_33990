@@ -11,6 +11,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2838
     wikipedia: http://en.wikipedia.org/wiki/Margaret_Vandercook
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33990#The-Red-Cross-Girls-with-Pershing-to-Victory
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2010-09-24'
 gutenberg_type: Text
